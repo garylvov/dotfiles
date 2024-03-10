@@ -1,6 +1,7 @@
 # Welcome to my Personal Config
 
 Clone this repo into the home directory
+```cd && git clone git@github.com:garylvov/dotfiles.git .dotfiles```
 
 # ZSh
 My Z-shell config includes powerlevels 10k, syntax highlighting, and autocompletion.
