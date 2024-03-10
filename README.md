@@ -1,6 +1,11 @@
 # Welcome to my Personal Config
 
 Clone this repo into the home directory
+
+```cd && git clone https://github.com/garylvov/dotfiles.git .dotfiles```
+
+SSH version:
+
 ```cd && git clone git@github.com:garylvov/dotfiles.git .dotfiles```
 
 # ZSh
